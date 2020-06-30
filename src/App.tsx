@@ -1,9 +1,9 @@
 import React from 'react';
+import GlobalStyles from './styles/GlobalStyles';
 import { DndProvider } from "react-dnd";
 import { HTML5Backend } from "react-dnd-html5-backend";
 import Header from './components/Header';
 import Board from './components/Board';
-import GlobalStyles from './styles/GlobalStyles';
 
 function App() {
   return (
