@@ -8,9 +8,9 @@ import GlobalStyles from './styles/GlobalStyles';
 function App() {
   return (
     <DndProvider backend={HTML5Backend} >
+      <GlobalStyles />
       <Header />
       <Board />
-      <GlobalStyles />
     </DndProvider>
   );
 }
