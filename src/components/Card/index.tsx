@@ -22,7 +22,7 @@ interface DropItem {
 }
 
 const Card: React.FC<CardItem> = ({ id, content, labels, user, index, listIndex }) => {
-  const ref = useRef<HTMLDivElement>();
+  const ref = useRef() as React.MutableRefObject<HTMLDivElement>;
 
   const { move } = useContext(BoardContext);
 
