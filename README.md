@@ -48,7 +48,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 #### Create the project and into them
 ```
-create-react-app clone-pipefy
+yarn create react-app clone-pipefy --template typescript
 cd clone-pipefy
 ```
 
