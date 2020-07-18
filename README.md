@@ -6,10 +6,9 @@ Recreating Pipefy from scratch (with drag n 'drop)](https://www.youtube.com/watc
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a new project up and running on your local machine for development and testing purposes.
 
 ### Tech
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses open source porjects to work properly:
 
@@ -46,7 +45,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 - Use YARN to initialize your project and create package.json to store project dependencies.
 
-#### Create the project and into them
+#### Create the project and go into the folder
 ```
 yarn create react-app clone-pipefy --template typescript
 cd clone-pipefy
