@@ -1,6 +1,6 @@
 # Pipefy Clone
 
-This is a simple project for study proposals. It was developed by [Rocketseat](https://rocketseat.com.br) and you can watch the tutorial [
+This is a simple project developed for the purpose of studying ReactJS. It was developed by [Rocketseat](https://rocketseat.com.br) and you can watch the tutorial [
 Recreating Pipefy from scratch (with drag n 'drop)](https://www.youtube.com/watch?v=awRtgpRsdTQ) on the YouTube channel.
 
 
